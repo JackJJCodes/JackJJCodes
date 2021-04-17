@@ -1,4 +1,4 @@
-### Hi there, I'm Jackson! 👋
+### Hi there, I'm Jackson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a student, reader and Machine Learning Enthusiast!!
@@ -10,11 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615970481~hmac=5933ab7e4a3e17afa9ee09058fe9d6b2" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1615970205~hmac=397a098add918a361d882588875418f1" />][instagram]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img href="https://www.instagram.com/j_24_07/" align="left" alt="linkedin" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />]
+[<img href="https://www.linkedin.com/in/jackson-sondi-0100/" align="left" alt="linkedin" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />]
+[<img href="jacksonjacobhacked@gmail.com" align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />]
 
 
-[instagram]: https://www.instagram.com/j_24_07
-[linkedin]: https://www.linkedin.com/in/jackson-sondi-0100
-[gmail]: jacksonjacobhacked@gmail.com
+
+<br>
+
+### My Stats:
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackson-hub&show_icons=true&theme=radical)
