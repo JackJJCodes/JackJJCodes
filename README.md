@@ -20,4 +20,4 @@
 <br>
 
 ### My Stats:
-![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackson-hub&show_icons=true&theme=radical)
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackJJCodes&show_icons=true&theme=radical)
