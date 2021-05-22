@@ -9,6 +9,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop solutions to real world-ML problems
 - ⚡ Fun fact: I love football, and reading books!
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JackJJCodes"/>       
+</p>
+
 ### Connect with me:
 
 [<img href="https://www.instagram.com/j_24_07/" align="left" alt="linkedin" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />]
@@ -21,3 +25,6 @@
 
 ### My Stats:
 ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackJJCodes&show_icons=true&theme=radical)
+
+
+![JackJJCodes](./assets/bottom_header.svg)
