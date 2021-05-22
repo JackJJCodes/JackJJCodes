@@ -25,6 +25,10 @@
 
 ### My Stats:
 ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackJJCodes&show_icons=true&theme=radical)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackJJCodes&theme=default)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackJJCodes&langs_count=8)](https://github.com/ishika13/github-readme-stats)
 
 
-![JackJJCodes](./assets/bottom_header.svg)
+![JackJJCodes](bottom_header.svg)
