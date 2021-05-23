@@ -24,8 +24,6 @@
 	<a href="https://www.instagram.com/j_24_07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<br>
-
 <h1 align="center"> My Stats! </h1>
 <div>
 <a href="https://github.com/JackJJCodes">
