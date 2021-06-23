@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there, I'm Jackson! </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="/home/jackson/Desktop/Coding/Git-Hub/JackJJCodes/JackFinal.gif" width="150" height="100">
+<img align="right" src="https://github.com/JackJJCodes/JackJJCodes/blob/main/JackFinal.gif" width="150" height="100">
 
 ## I'm a student, reader and Machine Learning Enthusiast!!
 
