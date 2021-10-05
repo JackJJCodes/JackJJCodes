@@ -51,7 +51,7 @@ def Jackson():
 	<a href="https://www.instagram.com/j_24_07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<h1 align="center"> My Stats! </h1>
+<!-- <h1 align="center"> My Stats! </h1>
 <div>
 <a href="https://github.com/JackJJCodes">
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=JackJJCodes&show_icons=true&theme=radical">
@@ -68,7 +68,7 @@ def Jackson():
 <a href="https://github.com/JackJJCodes">
   <img align="center" width="100%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackJJCodes&theme=dark&langs_count=4">
 </a>
-</div>
+</div> -->
 
 
 
